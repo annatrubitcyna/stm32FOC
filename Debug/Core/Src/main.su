@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	16	static
+../Core/Src/main.c:95:5:main	8	static
+../Core/Src/main.c:172:6:SystemClock_Config	88	static
+../Core/Src/main.c:219:13:MX_ADC1_Init	56	static
+../Core/Src/main.c:287:13:MX_ADC2_Init	40	static
+../Core/Src/main.c:346:13:MX_CORDIC_Init	8	static
+../Core/Src/main.c:372:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:412:13:MX_TIM1_Init	120	static
+../Core/Src/main.c:503:13:MX_TIM2_Init	40	static
+../Core/Src/main.c:548:13:MX_TIM3_Init	40	static
+../Core/Src/main.c:593:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:639:13:MX_DMA_Init	16	static
+../Core/Src/main.c:664:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:717:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:744:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:748:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:762:6:Error_Handler	4	static,ignoring_inline_asm
